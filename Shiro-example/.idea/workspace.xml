@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="947ecbf8-5e1f-4e59-9a40-8e73ee340b60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/Config/crossConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Shiro-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/my/War.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/my/controller/ExcelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/my/service/ExcelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/config/ThreadPoolConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/thread/SendMailThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../together/src/test/java/com/together/HomeWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/spring-boot-mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/spring-boot-mybatis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/src/main/java/com/springboot/mybatis/controller/LoginAndRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/src/main/java/com/springboot/mybatis/controller/LoginAndRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/target/classes/META-INF/spring-boot-mybatis.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/target/classes/com/springboot/mybatis/controller/LoginAndRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/target/classes/com/springboot/mybatis/controller/LoginAndRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/target/classes/com/springboot/mybatis/controller/LoginAndRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v1.0/target/classes/com/springboot/mybatis/controller/LoginAndRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/config/DefultView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/config/crossConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/config/druid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/controller/FreshmanSignUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/controller/LoginAndRegister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/controller/ManagerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/controller/NoticeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/controller/PageJumpController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/dao/FreshmanSignUpMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/dao/ManagerMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/dao/NoticeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/dao/UerRegisterMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/pojo/InterviewData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/pojo/LoginUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/pojo/Notice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/pojo/StateCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/service/FreshmanSignUpService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/service/Imp/FreshmanSignUpImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/service/Imp/LoginAndRegisterImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/service/Imp/ManagerImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/service/Imp/NoticeImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/service/LoginAndRegisterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/service/ManagerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/service/NoticeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/util/JsonUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/util/MD5util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/java/com/springboot/mybatis/util/SystemParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/mybatis/mapper/FreshmanSignUpMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/mybatis/mapper/ManagerMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/mybatis/mapper/NoticeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/mybatis/mapper/UerRegisterMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/css/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/css/form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/css/homepage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/css/notice.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/arrow1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/arrow2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/arrow3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/loge-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/logo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/logo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/底部二维码.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/样例.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/纪念碑谷1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/纪念碑谷2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/纪念碑谷3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/img/纪念碑谷4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/js/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/js/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/js/homepage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/js/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/static/js/notice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/templates/application.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/templates/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/templates/notice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/src/main/resources/templates/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/application-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/application-druid.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/com/springboot/mybatis/MybatisApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/com/springboot/mybatis/SpringBootStartApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/com/springboot/mybatis/controller/LoginAndRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/com/springboot/mybatis/controller/LoginAndRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/com/springboot/mybatis/controller/LoginAndRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/com/springboot/mybatis/controller/LoginAndRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/com/springboot/mybatis/util/SystemParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/com/springboot/mybatis/util/SystemParam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/com/springboot/mybatis/util/SystemParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/classes/com/springboot/mybatis/util/SystemParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/spring-boot-mybatis-0.0.1-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/spring-boot-mybatis-0.0.1-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/spring-boot-mybatis-0.0.1-SNAPSHOT.war.original" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/spring-boot-mybatis-0.0.1-SNAPSHOT.war.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/spring-boot-mybatis-0.0.1-SNAPSHOT/WEB-INF/classes/com/springboot/mybatis/controller/LoginAndRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/spring-boot-mybatis-0.0.1-SNAPSHOT/WEB-INF/classes/com/springboot/mybatis/controller/LoginAndRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/spring-boot-mybatis-0.0.1-SNAPSHOT/WEB-INF/classes/com/springboot/mybatis/controller/LoginAndRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/spring-boot-mybatis-0.0.1-SNAPSHOT/WEB-INF/classes/com/springboot/mybatis/controller/LoginAndRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/spring-boot-mybatis-0.0.1-SNAPSHOT/WEB-INF/classes/com/springboot/mybatis/util/SystemParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/spring-boot-mybatis-0.0.1-SNAPSHOT/WEB-INF/classes/com/springboot/mybatis/util/SystemParam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/spring-boot-mybatis-0.0.1-SNAPSHOT/WEB-INF/classes/com/springboot/mybatis/util/SystemParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/spring-boot-mybatis-0.0.1-SNAPSHOT/WEB-INF/classes/com/springboot/mybatis/util/SystemParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/surefire-reports/TEST-com.springboot.mybatis.MybatisApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/surefire-reports/TEST-com.springboot.mybatis.MybatisApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/surefire-reports/com.springboot.mybatis.MybatisApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../RecruitmentWebsite v5.0/target/surefire-reports/com.springboot.mybatis.MybatisApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/my/config/ShiroConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/config/ShiroConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/my/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/my/pojo/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/pojo/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/my/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spirng_boot-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spirng_boot-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Spirng_boot.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/my/HelloWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/HelloWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/my/config/CustomRealm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/config/CustomRealm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/my/config/ShiroConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/config/ShiroConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/my/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/my/controller/ExceptionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/controller/ExceptionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/my/controller/GuestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/controller/GuestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/my/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/my/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/my/dao/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/dao/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/my/pojo/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/pojo/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/my/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../together/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/controller/ActivityPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/controller/ActivityPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/controller/LoAndReController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/controller/LoAndReController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/dao/RelationMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/dao/RelationMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/pojo/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/pojo/Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/pojo/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/pojo/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/pojo/Relation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/pojo/Relation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/service/ActivityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/service/ActivityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/service/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/service/Imp/ActivityServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/service/Imp/ActivityServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/service/Imp/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/service/Imp/UserServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/java/com/together/util/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/java/com/together/util/LogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/src/test/java/com/together/TogetherApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../together/src/test/java/com/together/TogetherApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/TogetherApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/TogetherApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/controller/ActivityPageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/controller/ActivityPageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/controller/LoAndReController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/controller/LoAndReController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/pojo/Activity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/pojo/Activity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/pojo/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/pojo/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/pojo/Relation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/pojo/Relation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/service/ActivityService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/service/ActivityService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/service/CommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/service/CommentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/service/Imp/ActivityServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/service/Imp/ActivityServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/service/Imp/UserServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/service/Imp/UserServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/classes/com/together/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/classes/com/together/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/target/test-classes/com/together/TogetherApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../together/target/test-classes/com/together/TogetherApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/together.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../together/together.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Git\repository\Shiro-example\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e1SZyd8EF8eGylJQo02vYwpKHz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.my" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HelloWord">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Shiro-example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWord" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Shiro-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.HelloWord" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HelloWord" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="947ecbf8-5e1f-4e59-9a40-8e73ee340b60" name="Default Changelist" comment="" />
+      <created>1593487664392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593487664392</updated>
+      <workItem from="1593487669698" duration="2052000" />
+      <workItem from="1593581253035" duration="2043000" />
+      <workItem from="1593668924304" duration="654000" />
+      <workItem from="1593761669754" duration="155000" />
+      <workItem from="1594131732320" duration="113000" />
+      <workItem from="1595064592686" duration="10000" />
+      <workItem from="1600958358313" duration="551000" />
+      <workItem from="1604024413126" duration="4428000" />
+      <workItem from="1604300164154" duration="59000" />
+      <workItem from="1604473908044" duration="3864000" />
+      <workItem from="1604486077689" duration="78000" />
+      <workItem from="1604491052076" duration="752000" />
+      <workItem from="1604558127325" duration="835000" />
+      <workItem from="1604584702843" duration="722000" />
+      <workItem from="1604586828916" duration="191000" />
+      <workItem from="1604589081497" duration="662000" />
+      <workItem from="1604591934484" duration="2135000" />
+      <workItem from="1604637715160" duration="706000" />
+      <workItem from="1604904576910" duration="2378000" />
+      <workItem from="1604927706760" duration="50000" />
+      <workItem from="1606985791155" duration="1212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1604026287419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1604026287419" />
+    <state x="274" y="71" width="1155" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604474862726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="274" y="71" width="1155" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604474862726" />
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1604638032444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604638032444" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1604927753768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604927753768" />
+    <state width="1493" height="150" key="GridCell.Tab.0.bottom" timestamp="1604638421573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="150" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604638421573" />
+    <state width="1493" height="150" key="GridCell.Tab.0.center" timestamp="1604638421573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="150" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604638421573" />
+    <state width="1493" height="150" key="GridCell.Tab.0.left" timestamp="1604638421573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="150" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604638421573" />
+    <state width="1493" height="150" key="GridCell.Tab.0.right" timestamp="1604638421573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="150" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604638421573" />
+    <state width="1493" height="150" key="GridCell.Tab.1.bottom" timestamp="1604638421573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="150" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604638421573" />
+    <state width="1493" height="150" key="GridCell.Tab.1.center" timestamp="1604638421573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="150" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604638421573" />
+    <state width="1493" height="150" key="GridCell.Tab.1.left" timestamp="1604638421573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="150" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604638421573" />
+    <state width="1493" height="150" key="GridCell.Tab.1.right" timestamp="1604638421573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="150" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604638421573" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1604637972671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604637972671" />
+  </component>
+</project>
